@@ -1,7 +1,5 @@
 # Decentralized-Identity-Management-for-IoT-Devices-Using-IOTA-Blockchain-Technology
 
-# README for Decentralized Identity Management for IoT Devices Using IOTA Blockchain Technology
-
 ## Overview
 This repository contains the source code and implementation details for the paper **"Decentralized Identity Management for IoT Devices Using IOTA Blockchain Technology"**. The project explores a scalable, secure, and privacy-preserving identity management framework for IoT devices, leveraging the IOTA Tangle, decentralized identifiers (DIDs), verifiable credentials (VCs), and IOTA-specific technologies such as **IOTA Identity**, **IOTA Streams**, and **IOTA Stronghold**.
 
